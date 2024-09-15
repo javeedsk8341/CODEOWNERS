@@ -1,0 +1,9 @@
+# Specify owners for specific files or directories
+# Syntax: [file path] [owner]
+
+# The main team owns all of the repository
+* @yourteam
+
+# Specific owners for specific directories or files
+/src/ @frontendteam
+/docs/ @docsteam
